@@ -6,7 +6,8 @@
 
 <a href="https://github.com/Jamesllllllllll"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=624604" /></a>
 
-<a href="https://github.com/Jamesllllllllll"><img alt="BootStrap CSS" src="https://img.shields.io/badge/BootStrap-6610f2?style=flat&logo=BootStrap&logoColor=6610f2"/>
+<a href="https://github.com/Jamesllllllllll"><img alt="BootStrap CSS" src="[https://img.shields.io/badge/BootStrap-6610f2?style=flat&logo=BootStrap&logoColor=6610f2](https://img.shields.io/badge/BootStrap-6610f2?style=for-the-badge&logo=BootStrap&logoColor=6610f2
+)"/>
 
 <a href="https://github.com/Jamesllllllllll"><img alt="CSS" src="https://img.shields.io/badge/CSS3-F9C74F?style=for-the-badge&logo=css3&logoColor=624604" />
 <a href="https://github.com/Jamesllllllllll"><img alt="HTML" src="https://img.shields.io/badge/HTML5-43AA8B?style=for-the-badge&logo=html5&logoColor=white" />
