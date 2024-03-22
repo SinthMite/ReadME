@@ -8,7 +8,7 @@
 
 <a href="https://github.com/SinthMite"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=624604" /></a>
 
-<a href="https://github.com/SinthMite"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-6610f2?style=for-the-badge&logo=BootStrap&logoColor=6610f2"
+<a href="https://github.com/SinthMite"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-6610f2?style=for-the-badge&logo=BootStrap&logoColor=FFF"
 />
 <a href="https://github.com/SinthMite">
   <img alt="Sass" src="https://img.shields.io/badge/Sass-FF69B4?style=for-the-badge&logo=sass&logoColor=FFF" />
