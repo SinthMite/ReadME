@@ -5,7 +5,7 @@
  
    
 <a href="https://github.com/SinthMite"><img alt="React" src="https://img.shields.io/badge/React-f94144?style=for-the-badge&logo=react&logoColor=white" /></a>
-
+ 
 <a href="https://github.com/SinthMite"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=FFF" /></a>
 
 <a href="https://github.com/SinthMite"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-6610f2?style=for-the-badge&logo=BootStrap&logoColor=FFF"
